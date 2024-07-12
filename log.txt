@@ -1,0 +1,14 @@
+Thread ID: 18684 processed directory: C:\ in 2.9613 ms.
+Thread ID: 30656 processed directory: C:\Users\navee\source\repos\ in 32.4667 ms.
+Thread ID: 2340 processed directory: C:\Users\navee\source\repos\ in 58.0057 ms.
+Thread ID: 34952 processed directory: C:\ in 32753.1 ms.
+Thread ID: 28060 processed directory: C:\Users\navee\source\repos\ in 106.391 ms.
+Thread ID: 24352 processed directory: C:\ in 45342.1 ms.
+Thread ID: 17272 processed directory: C:\Users\navee\source\repos\ in 104.293 ms.
+Thread ID: 42492 processed directory: C:\ in 54944.6 ms.
+Thread ID: 31312 processed directory: C:\Users\navee\source\repos\ in 91.0141 ms.
+Thread ID: 31804 processed directory: C:\ in 33870.1 ms.
+Thread ID: 33688 processed directory: C:\Users\navee\source\repos\ in 99.7364 ms.
+Thread ID: 36584 processed directory: C:\ in 45066 ms.
+Thread ID: 41948 processed directory: C:\Users\navee\source\repos\ in 79.1503 ms.
+Thread ID: 14912 processed directory: C:\ in 50357.8 ms.
